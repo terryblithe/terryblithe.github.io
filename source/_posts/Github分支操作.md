@@ -1,5 +1,12 @@
 ---
 title: Github分支操作
+date: 2017/10/25 23:32:10
+comments: true
+tags: 
+- git
+- github
+categories:
+- git/github
 ---
 
 ## 一、Clone Repository
