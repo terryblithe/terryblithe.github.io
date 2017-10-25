@@ -122,6 +122,7 @@ social:
   GitHub: https://github.com/terryblithe || github
   E-Mail: mailto:terryblithe@gmail.com || envelope
   知乎: http://www.zhihu.com/people/terrywang271
+  微博: http://weibo.com/
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
   #FB Page: https://www.facebook.com/yourname || facebook
@@ -138,6 +139,7 @@ social_icons:
   Github: github
   E-Mail: e-mail
   知乎: zhihu
+  微博: weibo
 
 # Blog rolls
 links_icon: link
@@ -637,7 +639,7 @@ tabs:
 
 # Use velocity to animate everything.
 motion:
-  enable: false
+  enable: true
   async: false
   transition:
     # Transition variants:
