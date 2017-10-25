@@ -121,8 +121,8 @@ scheme: Gemini
 social:
   GitHub: https://github.com/terryblithe || github
   E-Mail: mailto:terryblithe@gmail.com || envelope
-  知乎: http://www.zhihu.com/people/terrywang271
-  微博: http://weibo.com/
+  #知乎: http://www.zhihu.com/people/terrywang271
+  #微博: http://weibo.com/
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
   #FB Page: https://www.facebook.com/yourname || facebook
@@ -138,8 +138,8 @@ social_icons:
   transition: false
   Github: github
   E-Mail: e-mail
-  知乎: zhihu
-  微博: weibo
+  #知乎: zhihu
+  #微博: weibo
 
 # Blog rolls
 links_icon: link
@@ -277,7 +277,7 @@ custom_logo:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
 # highlight_theme: normal
-highlight_theme: night bright
+highlight_theme: night eighties
 
 
 # ---------------------------------------------------------------
