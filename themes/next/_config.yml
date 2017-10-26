@@ -353,7 +353,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: 93cdcdc1520fbfec94bc9f552ace6db0
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -527,9 +527,9 @@ rating:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: false
-  app_id: #<app_id>
-  app_key: #<app_key>
+  enable: true
+  app_id: O4JWJ4B06scf4t4Fh8LzvPYV-gzGzoHsz #<app_id>
+  app_key: GvwwsNukf9BpdwsATxUYpFAi #<app_key>
 
 # Show PV/UV of the website/page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
