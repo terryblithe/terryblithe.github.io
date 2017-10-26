@@ -397,10 +397,10 @@ valine:
 # Introduction: https://imsun.net/posts/gitment-introduction/
 gitment:
   enable: true
-  mint: true # RECOMMEND, A mint on Gitment, to support count, language and proxy_gateway
+  mint: false # RECOMMEND, A mint on Gitment, to support count, language and proxy_gateway
   count: true # Show comments count in post meta area
   lazy: false # Comments lazy loading with a button
-  cleanly: false # Hide 'Powered by ...' on footer, and more
+  cleanly: true # Hide 'Powered by ...' on footer, and more
   language: # Force language, or auto switch by theme
   github_user: terryblithe # MUST HAVE, Your Github ID
   github_repo: https://github.com/terryblithe/blog-gitment.git # MUST HAVE, The repo you use to store Gitment comments
