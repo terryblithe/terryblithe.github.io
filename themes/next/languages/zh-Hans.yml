@@ -46,8 +46,8 @@ page:
   tags: 标签
 
 footer:
-  powered: "%s 鸭先生"
-  theme: 博客
+  powered: "%s Mr-Duck"
+  theme: Blog
 
 counter:
   tag_cloud:
