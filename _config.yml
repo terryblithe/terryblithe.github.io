@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://terryblithe.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -97,4 +97,4 @@ sitemap:
 baidusitemap:
   path: baidusitemap.xml
 
-baidu-site-verification: <meta name="baidu-site-verification" content="U79gS6dKGf" />
+#baidu-site-verification: <meta name="baidu-site-verification" content="U79gS6dKGf" />
