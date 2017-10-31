@@ -1,3 +1,4 @@
+<script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <div class="copyright">{#
 #}{% set current = date(Date.now(), "YYYY") %}{#
 #}&copy; {% if theme.footer.since and theme.footer.since != current %}{{ theme.footer.since }} &mdash; {% endif %}{#
@@ -5,7 +6,7 @@
   <span class="with-love">
     <i class="fa fa-{{ theme.footer.icon }}"></i>
   </span>
-  <span class="author" itemprop="copyrightHolder">{{ theme.footer.copyright || config.author }}</span>
+  <span class="author" itemprop="copyrightHolder">{{ theme.footer.copyright }} Mr-Duck</span>
 
   {% if theme.post_wordcount.totalcount %}
     <span class="post-meta-divider">|</span>
@@ -20,26 +21,4 @@
   #}</span>
   {% endif %}
 </div>
-
-{% if theme.footer.powered %}
-  <div class="powered-by">{#
-  #}{{ __('footer.powered', '') }}{#
-#}</div>
-{% endif %}
-
-{% if theme.footer.powered and theme.footer.theme.enable %}
-  <span class="post-meta-divider">|</span>
-{% endif %}
-
-{% if theme.footer.theme.enable %}
-  <div class="theme-info">{#
-  #}{{ __('footer.theme') }} {#
-  #}{% if theme.footer.theme.version %} {% endif %}{#
-#}</div>
-{% endif %}
-
-{% if theme.footer.custom_text %}
-  <div class="footer-custom">{#
-  #}{{ theme.footer.custom_text }}{#
-#}</div>
-{% endif %}
+             

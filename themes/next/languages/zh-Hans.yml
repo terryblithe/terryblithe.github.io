@@ -46,8 +46,8 @@ page:
   tags: 标签
 
 footer:
-  powered: "%s Mr-Duck"
-  theme: Blog
+  powered: "%s"
+  theme: "%s"
 
 counter:
   tag_cloud:
