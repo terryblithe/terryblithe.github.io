@@ -529,7 +529,7 @@ rating:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: true
+  enable: false
   app_id: O4JWJ4B06scf4t4Fh8LzvPYV-gzGzoHsz #<app_id>
   app_key: GvwwsNukf9BpdwsATxUYpFAi #<app_key>
 
@@ -547,7 +547,7 @@ busuanzi_count:
   site_pv_header: My blog viewed <b>
   site_pv_footer: </b> times
   # custom pv span for one page only
-  page_pv: false
+  page_pv: true
   page_pv_header: <i class="fa fa-eye"></i>  
   page_pv_footer:
 
