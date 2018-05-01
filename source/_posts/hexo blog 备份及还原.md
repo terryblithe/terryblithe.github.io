@@ -9,6 +9,8 @@ categories:
 - Hexo
 ---
 
+### 原始链接：https://blog.itswincer.com/posts/7efd2818/
+
 ## 一、Hexo 备份
 1. 创建blog仓库，仓库名和blog域名一致：terryblithe.github.io
 2. 创建两个分支：*master*(保存静态页面)和*hexo*(保存hexo源文件),并且设置hexo分支为默认分支
