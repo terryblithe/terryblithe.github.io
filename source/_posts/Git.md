@@ -15,6 +15,7 @@ categories:
 
 ``` bash
 git clone git@github.com:terryblithe/terryblithe.github.io.git # clone到当前目录下
+
 git clone git@github.com:terryblithe/terryblithe.github.io.git target # 指定clone到目标目录下
 ```
 
@@ -75,6 +76,7 @@ git checkout -b hexo
 该命令相当于一下操作：
 ``` bash
 git branch hexo
+
 git checkout hexo
 ```
 
