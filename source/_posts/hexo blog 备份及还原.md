@@ -14,7 +14,7 @@ categories:
 ## 一、[Hexo 搭建](https://hexo.io/zh-cn/docs/setup)
 
 1. 初始化博客
-    ```
+    ```shell
     npm install hexo-cli -g
     hexo init blog
     cd blog
